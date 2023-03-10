@@ -1,4 +1,4 @@
-## Hi, I'm [Zakhar](github.com/za-xap "GitHub profile")  👋
+## Hi, I'm [Zakhar](https://github.com/za-xap "GitHub profile")  👋
 ### I'm beginner from Ukraine
 - ✍️🤖 *Writing Telegram bots* 
 - 🧐🐍 *Studying Python by myself*
